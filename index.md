@@ -7,4 +7,4 @@ Hello this is my personalized site built with git hub pages
 Name- Sakshi
 Learning - GitHub Pages , Markdown , Jekyll
 
-Thanks for visiting
+Thanks for visiting.
